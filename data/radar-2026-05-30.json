@@ -1,0 +1,269 @@
+{
+  "fetched_at": "2026-05-30T11:06:09.556667",
+  "rounds": [
+    {
+      "source": "GitHub Trending (7 days)",
+      "items": [
+        {
+          "name": "op7418/guizang-social-card-skill",
+          "stars": 1178,
+          "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "lang": "HTML",
+          "topics": [
+            "agent-skill",
+            "ai-agent",
+            "anthropic",
+            "claude-code",
+            "claude-skill",
+            "codex",
+            "editorial-design",
+            "html-template",
+            "image-generation",
+            "playwright",
+            "rednote",
+            "social-cards",
+            "swiss-design",
+            "wechat",
+            "xiaohongshu"
+          ]
+        },
+        {
+          "name": "helloianneo/ian-xiaohei-illustrations",
+          "stars": 855,
+          "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+          "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+          "lang": null,
+          "topics": [
+            "ai-agent",
+            "chinese",
+            "codex-skill",
+            "handdrawn",
+            "illustration",
+            "image-generation",
+            "xiaohei"
+          ]
+        },
+        {
+          "name": "UditAkhourii/adhd",
+          "stars": 517,
+          "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+          "url": "https://github.com/UditAkhourii/adhd",
+          "lang": "TypeScript",
+          "topics": [
+            "adhd",
+            "agents",
+            "ai",
+            "ai-agents",
+            "brainstorm",
+            "chain-of-thought",
+            "claude",
+            "claude-agent-sdk",
+            "creativity",
+            "divergent-thinking",
+            "ideation",
+            "interdisciplinary",
+            "llm",
+            "llm-tools",
+            "nodejs",
+            "prompt-engineering",
+            "tree-of-thought",
+            "typescript"
+          ]
+        },
+        {
+          "name": "withkynam/vibecode-pro-max-kit",
+          "stars": 509,
+          "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+          "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+          "lang": "JavaScript",
+          "topics": [
+            "agentic",
+            "ai-agents",
+            "ai-coding-assistant",
+            "ai-development",
+            "ai-workflow",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "cli-tools",
+            "code-quality",
+            "codex",
+            "coding-agents",
+            "cursor",
+            "developer-tools",
+            "llm",
+            "openai",
+            "prompt-engineering",
+            "typescript",
+            "vibe-coding",
+            "vibecoding"
+          ]
+        },
+        {
+          "name": "harrietteehisqu7759383/kms-pico-latest-april-2026",
+          "stars": 449,
+          "desc": "A secure, educational toolkit for understanding KMS activation, designed for lab environments.",
+          "url": "https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026",
+          "lang": "C#",
+          "topics": [
+            "kms-activator-windows-10-pro",
+            "kms-client",
+            "kms-office",
+            "kms-pico-office-2019-activator",
+            "kms-piko",
+            "kms-server",
+            "kms-server-service-autokmspico-portable-2026",
+            "kmspico-1121-free-download",
+            "kmspico-2027",
+            "kmspico-clean",
+            "kmspico-portable-clean-2026",
+            "kmspico-windows-11-activator-download",
+            "kmspisco",
+            "windows-10-pro-activator-kms"
+          ]
+        },
+        {
+          "name": "Michaelliv/pi-dynamic-workflows",
+          "stars": 445,
+          "desc": null,
+          "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
+          "lang": "TypeScript",
+          "topics": []
+        },
+        {
+          "name": "baoweise-bot/aimili-vpngate",
+          "stars": 428,
+          "desc": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+          "url": "https://github.com/baoweise-bot/aimili-vpngate",
+          "lang": "Python",
+          "topics": []
+        },
+        {
+          "name": "alfiyahkamilah1239298/WallpaperDownloader-26",
+          "stars": 400,
+          "desc": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.",
+          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
+          "lang": "TypeScript",
+          "topics": [
+            "live-wallpapers",
+            "steamworkshop",
+            "wallpaper-changer",
+            "wallpaper-engine-key-gen",
+            "wallpaperengine-download"
+          ]
+        },
+        {
+          "name": "Sophomoresty/gemini-web2api",
+          "stars": 398,
+          "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+          "url": "https://github.com/Sophomoresty/gemini-web2api",
+          "lang": "Python",
+          "topics": []
+        },
+        {
+          "name": "FlashML-org/flashlib",
+          "stars": 392,
+          "desc": "Fast and memory-efficient classical machine learning operators",
+          "url": "https://github.com/FlashML-org/flashlib",
+          "lang": "Python",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "items": [
+        {
+          "title": "What's been your biggest technical bottleneck as a small startup lately?",
+          "url": "",
+          "points": 8,
+          "comments": 14,
+          "author": "devralcomp"
+        },
+        {
+          "title": "Show HN: MarinaBox: Open-Source Sandbox Infra for AI Agents",
+          "url": "https://github.com/marinabox/marinabox",
+          "points": 6,
+          "comments": 0,
+          "author": "smother_mate68"
+        },
+        {
+          "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+          "url": "https://github.com/cosinusalpha/webctl",
+          "points": 134,
+          "comments": 38,
+          "author": "cosinusalpha"
+        }
+      ]
+    },
+    {
+      "source": "Dev.to AI tag",
+      "items": [
+        {
+          "title": "How Are Developers Actually Using AI At Work?",
+          "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+          "reactions": 126,
+          "comments": 160,
+          "author": "sylwia-lask",
+          "tags": [
+            "discuss",
+            "ai"
+          ]
+        },
+        {
+          "title": "An LLM API call, in 4 GIFs",
+          "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+          "reactions": 62,
+          "comments": 32,
+          "author": "jasmin",
+          "tags": [
+            "llm",
+            "javascript",
+            "ai",
+            "beginners"
+          ]
+        },
+        {
+          "title": "Why does AI forget what you said (and how to fix it)",
+          "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+          "reactions": 59,
+          "comments": 56,
+          "author": "rohini_gaonkar",
+          "tags": [
+            "ai",
+            "beginners",
+            "aws",
+            "tutorial"
+          ]
+        },
+        {
+          "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
+          "url": "https://dev.to/mickyarun/ai-agents-are-great-at-80-of-our-code-the-other-20-is-why-we-still-need-seniors-3lh5",
+          "reactions": 22,
+          "comments": 19,
+          "author": "mickyarun",
+          "tags": [
+            "ai",
+            "discuss",
+            "webdev",
+            "startup"
+          ]
+        },
+        {
+          "title": "The Quiet AI War Inside Your Browser",
+          "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
+          "reactions": 25,
+          "comments": 2,
+          "author": "obetomuniz",
+          "tags": [
+            "ai",
+            "frontend",
+            "browser",
+            "webdev"
+          ]
+        }
+      ]
+    }
+  ]
+}
