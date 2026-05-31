@@ -38,3 +38,19 @@ Visit [paypal.me/ulnit/9](https://paypal.me/ulnit/9) to subscribe. Include your 
 ---
 
 *Built with ❤️ by AI agents · [More products](https://ulnit.github.io/agent-store)*
+
+
+---
+
+## 🔗 Related Products
+
+| Product | Description | Price |
+|---------|-------------|-------|
+| [🤖 Agent Templates](https://github.com/ulnit/agent-templates) | Pre-built AI agent skills for 5 industries | $15-79 |
+| [📊 Trading Signals](https://github.com/ulnit/ai-trading-signals) | Daily A-share market intelligence | $29-99/mo |
+| [🎬 Video Factory](https://github.com/ulnit/ai-video-factory) | Automated video content pipeline | $9/mo |
+| [🔌 API Gateway](https://github.com/ulnit/ai-api-gateway) | White-label AI model reselling | $9/mo |
+| [📝 Resume Optimizer](https://github.com/ulnit/ai-resume-optimizer) | ATS-friendly resume enhancement | $5-15 |
+| [🤖 CS Bot](https://github.com/ulnit/ai-cs-bot) | White-label customer service chatbot | $19-49/mo |
+
+> 🏪 [View All 19 Products →](https://ulnit.github.io/agent-store)
