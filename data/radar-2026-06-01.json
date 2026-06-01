@@ -1,0 +1,229 @@
+{
+  "fetched_at": "2026-06-01T08:00:35.599470",
+  "rounds": [
+    {
+      "source": "GitHub Trending (7 days)",
+      "items": [
+        {
+          "name": "pewdiepie-archdaemon/odysseus",
+          "stars": 7377,
+          "desc": "Self-hosted AI workspace. ",
+          "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+          "lang": "JavaScript",
+          "topics": []
+        },
+        {
+          "name": "op7418/guizang-social-card-skill",
+          "stars": 2026,
+          "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "lang": "HTML",
+          "topics": [
+            "agent-skill",
+            "ai-agent",
+            "anthropic",
+            "claude-code",
+            "claude-skill",
+            "codex",
+            "editorial-design",
+            "html-template",
+            "image-generation",
+            "playwright",
+            "rednote",
+            "social-cards",
+            "swiss-design",
+            "wechat",
+            "xiaohongshu"
+          ]
+        },
+        {
+          "name": "helloianneo/ian-xiaohei-illustrations",
+          "stars": 1420,
+          "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+          "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+          "lang": "",
+          "topics": [
+            "ai-agent",
+            "chinese",
+            "codex-skill",
+            "handdrawn",
+            "illustration",
+            "image-generation",
+            "xiaohei"
+          ]
+        },
+        {
+          "name": "Sophomoresty/gemini-web2api",
+          "stars": 878,
+          "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+          "url": "https://github.com/Sophomoresty/gemini-web2api",
+          "lang": "Python",
+          "topics": []
+        },
+        {
+          "name": "MatinSenPai/SenPaiScanner",
+          "stars": 798,
+          "desc": "A light-weight scanner for Cloudflare IPs, written in Golang",
+          "url": "https://github.com/MatinSenPai/SenPaiScanner",
+          "lang": "Go",
+          "topics": []
+        },
+        {
+          "name": "GordenSun/GordenPPTSkill",
+          "stars": 771,
+          "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+          "url": "https://github.com/GordenSun/GordenPPTSkill",
+          "lang": "Python",
+          "topics": []
+        },
+        {
+          "name": "withkynam/vibecode-pro-max-kit",
+          "stars": 666,
+          "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+          "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+          "lang": "JavaScript",
+          "topics": [
+            "agentic",
+            "ai-agents",
+            "ai-coding-assistant",
+            "ai-development",
+            "ai-workflow",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "cli-tools",
+            "code-quality",
+            "codex",
+            "coding-agents",
+            "cursor",
+            "developer-tools",
+            "llm",
+            "openai",
+            "prompt-engineering",
+            "typescript",
+            "vibe-coding",
+            "vibecoding"
+          ]
+        },
+        {
+          "name": "Michaelliv/pi-dynamic-workflows",
+          "stars": 630,
+          "desc": "",
+          "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
+          "lang": "TypeScript",
+          "topics": []
+        },
+        {
+          "name": "2aronS/Duel-Agents",
+          "stars": 572,
+          "desc": "CLI, SDK, and IDE plugins for Duel Agents",
+          "url": "https://github.com/2aronS/Duel-Agents",
+          "lang": "TypeScript",
+          "topics": [
+            "ai-agents",
+            "anthropic",
+            "claude-code",
+            "cli",
+            "cursor",
+            "duel-agents",
+            "llm",
+            "npm",
+            "openai-compatible",
+            "openclaw",
+            "sdk",
+            "typescript"
+          ]
+        },
+        {
+          "name": "ace-trump-tech/DeltaForce-OBS-Locker",
+          "stars": 487,
+          "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+          "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+          "lang": "Python",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "items": [
+        {
+          "title": "Show HN: Startfa.st – A curated, fast directory of AI, dev, and product tools",
+          "url": "https://startfa.st",
+          "points": 5,
+          "comments": 0
+        },
+        {
+          "title": "What's been your biggest technical bottleneck as a small startup lately?",
+          "url": "",
+          "points": 8,
+          "comments": 14
+        },
+        {
+          "title": "Show HN: MarinaBox: Open-Source Sandbox Infra for AI Agents",
+          "url": "https://github.com/marinabox/marinabox",
+          "points": 6,
+          "comments": 0
+        },
+        {
+          "title": "Ask HN: Anyone using Cursor/Claude Code for non-coding workflows?",
+          "url": "",
+          "points": 5,
+          "comments": 6
+        },
+        {
+          "title": "Show HN: A Self-Evolving Agentic App Builder (Seeking 300 Beta Testers)",
+          "url": "https://howone.ai/?invite=CD0AP6",
+          "points": 5,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+          "url": "https://github.com/cosinusalpha/webctl",
+          "points": 134,
+          "comments": 38
+        }
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "items": [
+        {
+          "title": "How Are Developers Actually Using AI At Work?",
+          "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+          "reactions": 150,
+          "comments": 192,
+          "author": "sylwia-lask"
+        },
+        {
+          "title": "An LLM API call, in 4 GIFs",
+          "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+          "reactions": 80,
+          "comments": 55,
+          "author": "jasmin"
+        },
+        {
+          "title": "Why does AI forget what you said (and how to fix it)",
+          "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+          "reactions": 67,
+          "comments": 56,
+          "author": "rohini_gaonkar"
+        },
+        {
+          "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
+          "url": "https://dev.to/mickyarun/ai-agents-are-great-at-80-of-our-code-the-other-20-is-why-we-still-need-seniors-3lh5",
+          "reactions": 24,
+          "comments": 26,
+          "author": "mickyarun"
+        },
+        {
+          "title": "The Quiet AI War Inside Your Browser",
+          "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
+          "reactions": 26,
+          "comments": 3,
+          "author": "obetomuniz"
+        }
+      ]
+    }
+  ]
+}
