@@ -20,8 +20,9 @@ def fetch(url, headers=None):
 
 results = {"fetched_at": datetime.datetime.now().isoformat(), "rounds": []}
 
-# GitHub Trending
-gh = fetch("https://api.github.com/search/repositories?q=stars:>50+created:>7days&sort=stars&order=desc&per_page=10")
+# GitHub Trending (use explicit date — relative dates are rejected with 422)
+seven_days_ago = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime("%Y-%m-%d")
+gh = fetch(f"https://api.github.com/search/repositories?q=stars:>50+created:>{seven_days_ago}&sort=stars&order=desc&per_page=10")
 if "items" in gh:
     results["rounds"].append({
         "source": "GitHub Trending (7 days)",
@@ -50,9 +51,17 @@ if isinstance(devto, list):
                   for a in devto[:5]]
     })
 
-# Reddit
-reddit = fetch("https://www.reddit.com/r/MachineLearning/hot.json?limit=10",
-               {"User-Agent": "AI-Tools-Radar/1.0"})
+# Reddit (try old.reddit.com — more reliable, no JS redirect)
+reddit = None
+for reddit_url in [
+    "https://old.reddit.com/r/MachineLearning/hot.json?limit=10",
+    "https://www.reddit.com/r/MachineLearning/hot.json?limit=10",
+]:
+    reddit = fetch(reddit_url, {"User-Agent": "Mozilla/5.0 (compatible; AI-Tools-Radar/1.0)"})
+    if "data" in reddit:
+        break
+    if "error" not in str(reddit):
+        break
 if "data" in reddit:
     posts = reddit["data"]["children"]
     results["rounds"].append({
