@@ -57,7 +57,12 @@ for reddit_url in [
     "https://old.reddit.com/r/MachineLearning/hot.json?limit=10",
     "https://www.reddit.com/r/MachineLearning/hot.json?limit=10",
 ]:
-    reddit = fetch(reddit_url, {"User-Agent": "Mozilla/5.0 (compatible; AI-Tools-Radar/1.0)"})
+    try:
+        req = urllib.request.Request(reddit_url, headers={"User-Agent": "Mozilla/5.0 (compatible; AI-Tools-Radar/1.0)"})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            reddit = json.loads(r.read())
+    except Exception as e:
+        reddit = {"error": str(e), "source": reddit_url}
     if "data" in reddit:
         break
     if "error" not in str(reddit):

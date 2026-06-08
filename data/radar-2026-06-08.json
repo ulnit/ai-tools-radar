@@ -1,0 +1,217 @@
+{
+  "fetched_at": "2026-06-08T08:05:07.132389",
+  "rounds": [
+    {
+      "source": "GitHub Trending (7 days)",
+      "items": [
+        {
+          "name": "cpaczek/skylight",
+          "stars": 2252,
+          "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+          "url": "https://github.com/cpaczek/skylight",
+          "lang": "TypeScript",
+          "topics": [
+            "ads-b",
+            "aircraft",
+            "art-installation",
+            "flight-tracker",
+            "projector",
+            "raspberry-pi",
+            "react",
+            "rtl-sdr",
+            "typescript"
+          ]
+        },
+        {
+          "name": "b-nnett/goose",
+          "stars": 2250,
+          "desc": "Goose Swift proof-of-concept README",
+          "url": "https://github.com/b-nnett/goose",
+          "lang": "Rust",
+          "topics": []
+        },
+        {
+          "name": "jd-opensource/JoyAI-Echo",
+          "stars": 837,
+          "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+          "url": "https://github.com/jd-opensource/JoyAI-Echo",
+          "lang": "Python",
+          "topics": []
+        },
+        {
+          "name": "tastyeffectco/sandboxd",
+          "stars": 494,
+          "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+          "url": "https://github.com/tastyeffectco/sandboxd",
+          "lang": "Go",
+          "topics": [
+            "ai",
+            "ai-agent",
+            "dev-environment",
+            "docker",
+            "isolation",
+            "pinokio",
+            "preview",
+            "preview-environment",
+            "sandbox",
+            "self-hosted"
+          ]
+        },
+        {
+          "name": "Jane-xiaoer/xiaoer-videolab",
+          "stars": 463,
+          "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+          "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+          "lang": "JavaScript",
+          "topics": [
+            "bilibili",
+            "chrome-extension",
+            "launchd",
+            "macos",
+            "manifest-v3",
+            "privacy-friendly",
+            "video-downloader",
+            "youtube-dl",
+            "yt-dlp"
+          ]
+        },
+        {
+          "name": "zenhosta/9drive",
+          "stars": 392,
+          "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+          "url": "https://github.com/zenhosta/9drive",
+          "lang": "TypeScript",
+          "topics": [
+            "drive",
+            "gateway",
+            "google",
+            "storage"
+          ]
+        },
+        {
+          "name": "jeff141/meatshell",
+          "stars": 379,
+          "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+          "url": "https://github.com/jeff141/meatshell",
+          "lang": "Rust",
+          "topics": []
+        },
+        {
+          "name": "SenhorH/tab-labeler",
+          "stars": 328,
+          "desc": "Rename browser tabs locally and bring order to chaotic sessions.",
+          "url": "https://github.com/SenhorH/tab-labeler",
+          "lang": "TypeScript",
+          "topics": []
+        },
+        {
+          "name": "nevertoday/zhongguo-traditional-colors",
+          "stars": 324,
+          "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+          "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+          "lang": "JavaScript",
+          "topics": []
+        },
+        {
+          "name": "amElnagdy/guard-skills",
+          "stars": 305,
+          "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+          "url": "https://github.com/amElnagdy/guard-skills",
+          "lang": null,
+          "topics": [
+            "agent-skills",
+            "ai",
+            "claude",
+            "claude-code",
+            "code-review",
+            "codex",
+            "skills-sh",
+            "woocommerce",
+            "wordpress"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "items": [
+        {
+          "title": "Show HN: Startfa.st – A curated, fast directory of AI, dev, and product tools",
+          "url": "https://startfa.st",
+          "points": 5,
+          "comments": 0
+        },
+        {
+          "title": "What's been your biggest technical bottleneck as a small startup lately?",
+          "url": "",
+          "points": 8,
+          "comments": 14
+        },
+        {
+          "title": "Show HN: MarinaBox: Open-Source Sandbox Infra for AI Agents",
+          "url": "https://github.com/marinabox/marinabox",
+          "points": 6,
+          "comments": 0
+        },
+        {
+          "title": "Ask HN: Anyone using Cursor/Claude Code for non-coding workflows?",
+          "url": "",
+          "points": 5,
+          "comments": 6
+        },
+        {
+          "title": "Show HN: A Self-Evolving Agentic App Builder (Seeking 300 Beta Testers)",
+          "url": "https://howone.ai/?invite=CD0AP6",
+          "points": 5,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+          "url": "https://github.com/cosinusalpha/webctl",
+          "points": 134,
+          "comments": 38
+        }
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "items": [
+        {
+          "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+          "url": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+          "reactions": 117,
+          "comments": 112,
+          "author": "sylwia-lask"
+        },
+        {
+          "title": "From vibe coding to clear thinking: what non-technical builders need in the age of AI",
+          "url": "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
+          "reactions": 52,
+          "comments": 48,
+          "author": "javz"
+        },
+        {
+          "title": "My Company Bought a $660K AI Platform. I Was Replaced. On Friday at 2:58 AM, It Fixed Everything. Then It Rolled Back the Wrong Patch.",
+          "url": "https://dev.to/xulingfeng/my-company-bought-a-660k-ai-platform-i-was-replaced-on-friday-at-258-am-it-fixed-everything-3kc4",
+          "reactions": 48,
+          "comments": 38,
+          "author": "xulingfeng"
+        },
+        {
+          "title": "Debloating The AI-Grown Codebase",
+          "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
+          "reactions": 30,
+          "comments": 9,
+          "author": "maximsaplin"
+        },
+        {
+          "title": "Am I Becoming Too Slow for the AI World?",
+          "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+          "reactions": 70,
+          "comments": 42,
+          "author": "marcosomma"
+        }
+      ]
+    }
+  ]
+}
